@@ -1,0 +1,12 @@
+C:\Users\sokkary\source\repos\EmployeeService\EmployeeDA\bin\Debug\EmployeeDA.dll.config
+C:\Users\sokkary\source\repos\EmployeeService\EmployeeDA\bin\Debug\EmployeeDA.dll
+C:\Users\sokkary\source\repos\EmployeeService\EmployeeDA\bin\Debug\EmployeeDA.pdb
+C:\Users\sokkary\source\repos\EmployeeService\EmployeeDA\bin\Debug\EntityFramework.dll
+C:\Users\sokkary\source\repos\EmployeeService\EmployeeDA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sokkary\source\repos\EmployeeService\EmployeeDA\bin\Debug\EntityFramework.xml
+C:\Users\sokkary\source\repos\EmployeeService\EmployeeDA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sokkary\source\repos\EmployeeService\EmployeeDA\obj\Debug\EmployeeDA.csproj.CoreCompileInputs.cache
+C:\Users\sokkary\source\repos\EmployeeService\EmployeeDA\obj\Debug\EmployeeDA.csproj.CopyComplete
+C:\Users\sokkary\source\repos\EmployeeService\EmployeeDA\obj\Debug\EmployeeDA.dll
+C:\Users\sokkary\source\repos\EmployeeService\EmployeeDA\obj\Debug\EmployeeDA.pdb
+C:\Users\sokkary\source\repos\EmployeeService\EmployeeDA\obj\Debug\EmployeeDA.csprojAssemblyReference.cache
