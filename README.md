@@ -1,6 +1,6 @@
 # WebApi Example
 
-this is Example Asp.net WebApi 2 Service with entity framwork 
+EmployeeService is a sample asp.net WebApi with Entity Framwork.
 
 used application: Visual Studio 2017
 
